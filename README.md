@@ -1,4 +1,4 @@
-# Comportnx Mod Packs
+# Comportnx Mod Set
 
 Just some little mods.
 

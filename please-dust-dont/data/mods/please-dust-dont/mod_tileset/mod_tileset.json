@@ -1,0 +1,22 @@
+[
+  { 
+    "type": "mod_tileset",
+    "compatibility": [
+      "Chibi_Ultica",
+      "MSXotto+",
+      "UltimateCataclysm"
+    ],
+    "tiles-new": [{
+      "file": "mod_tileset/dust.png",
+      "//": "range 0 to 0",
+      "sprite_width": 32,
+      "sprite_height": 32,
+      "sprite_offset_x": 0,
+      "sprite_offset_y": 0,
+      "tiles": [
+        { "id": "fd_dust", "fg": 0 }
+      ]
+    }]
+  }
+
+]

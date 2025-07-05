@@ -4,9 +4,9 @@ Just some little mods.
 
 ## Please Dust Dont
 
-Probably won't be needed for long. Makes bash dust less explosive and changes the character placeholder to be less intrusive.
+Makes bash dust spread less and adds a subtle sprite for it.
 
-![theyre just dots now](https://i.imgur.com/O94LFMc.jpeg)
+![theyre just dots now](https://i.imgur.com/8vFMeZ8.jpeg)
 
 ## Survivor Bias
 

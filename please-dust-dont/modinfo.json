@@ -1,0 +1,37 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "lessdust",
+    "name": "Please Dust Don't",
+    "authors": [ "comportnx" ],
+    "maintainers": [ "comportnx" ],
+    "description": "Dust doesn't spread as far and is drawn with a less distracting little character.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ],
+    "version": "0.1"
+  },
+  {
+    "type": "field_type",
+    "id": "fd_dust",
+    "intensity_levels": [
+      { "name": "dust", "sym": ".", "color": "brown", "transparent": true, "dangerous": false, "concentration": 1 },
+      {
+        "name": "fountain of dust",
+        "sym": ".",
+        "color": "brown",
+        "transparent": true,
+        "dangerous": false,
+        "concentration": 1
+      }
+    ],
+    "priority": 1,
+    "dirty_transparency_cache": false,
+    "display_items": true,
+    "display_field": true,
+    "description_affix": "covered_in",
+    "mopsafe": true,
+    "moppable": true,
+    "percent_spread": 13,
+    "phase": "gas"
+  }
+]
